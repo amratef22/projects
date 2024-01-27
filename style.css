@@ -1,0 +1,21 @@
+<style>
+        .the_box {
+                
+         border: 5px solid blue;
+         padding: .5em;
+         margin: .5em;
+         width: 200px;
+         height: 50px;
+         float: right;
+        }
+        .red {
+                border: 5px solid red;
+                padding: .5em;
+                margin: .5em;
+                width: 20px;
+                height: 20px;
+                float: right;
+        }
+</style>
+
+
